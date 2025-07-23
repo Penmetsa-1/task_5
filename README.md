@@ -76,3 +76,6 @@ Visualize trends and insights with Matplotlib & Seaborn
 
 <img width="1349" height="679" alt="Screenshot 2025-07-23 212709" src="https://github.com/user-attachments/assets/388feff9-da21-4b71-ae08-c206cbdc0fc1" />
 
+<img width="1346" height="678" alt="Screenshot 2025-07-23 212651" src="https://github.com/user-attachments/assets/b95ad935-6119-42a0-838d-b59d550b14ba" />
+
+
