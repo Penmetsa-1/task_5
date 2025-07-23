@@ -70,3 +70,9 @@ Perform exploratory data analysis (EDA)
 Visualize trends and insights with Matplotlib & Seaborn
 <img width="1350" height="658" alt="Screenshot 2025-07-23 212801" src="https://github.com/user-attachments/assets/9b4aadb9-6fa2-47fa-a8f6-81e71124f37a" />
 
+<img width="1352" height="679" alt="Screenshot 2025-07-23 212743" src="https://github.com/user-attachments/assets/7a9a381c-731b-4904-9368-193d49fbb6af" />
+
+<img width="1351" height="660" alt="Screenshot 2025-07-23 212724" src="https://github.com/user-attachments/assets/48b78fb6-0f0f-465f-b352-1307c2200198" />
+
+<img width="1349" height="679" alt="Screenshot 2025-07-23 212709" src="https://github.com/user-attachments/assets/388feff9-da21-4b71-ae08-c206cbdc0fc1" />
+
