@@ -68,3 +68,5 @@ Load and clean CSV data with Pandas
 Perform exploratory data analysis (EDA)
 
 Visualize trends and insights with Matplotlib & Seaborn
+<img width="1350" height="658" alt="Screenshot 2025-07-23 212801" src="https://github.com/user-attachments/assets/9b4aadb9-6fa2-47fa-a8f6-81e71124f37a" />
+
