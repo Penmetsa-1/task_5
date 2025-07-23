@@ -20,7 +20,7 @@ The dataset contains the following columns:
 | Column Name        | Description                          |
 |--------------------|--------------------------------------|
 | Transaction ID     | Unique ID for each transaction       |
-| Date               | Transaction date (DD-MM-YYYY)        |
+| Date               | Transaction date (YYYY-MM-DD)        |
 | Customer ID        | Unique customer identifier           |
 | Gender             | Customer gender                      |
 | Age                | Customer age                         |
